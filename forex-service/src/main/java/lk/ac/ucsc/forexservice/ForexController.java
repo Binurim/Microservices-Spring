@@ -25,9 +25,4 @@ public class ForexController {
 
         return exchangeValue;
     }
-
-//    @GetMapping("/")
-//    public String getHealth() {
-//        return "gaga";
-//    }
 }
